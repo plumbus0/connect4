@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+.p1{
+  background-color: rgb(185, 214, 91);
+}
+.p2{
+  background-color: red;
+}
+:root {
+  --coinSlot:rgba(23, 43, 82, 0.234);
+  --coinHover:rgba(23, 43, 82, 0.425);
+}
